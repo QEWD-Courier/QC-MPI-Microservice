@@ -1,0 +1,12 @@
+{
+  "auth": {
+    "host": "https://test:444",
+    "path": "/AuthService/oauth/token",
+    "grant_type": "client_credentials",
+    "client_id": "clientId",
+    "client_secret": "clientSecret"
+  },
+  "api": {
+    "host": "https://test:444/FHIRService"
+  }
+}
